@@ -13,6 +13,8 @@ Another implementation of YoloV4 in pytorch. In this repo we are gonna implement
 - [ ] Generic algorithm searching hyper params;
 - [ ] Inference result;
 - [ ] Training process.
+- [ ] Cross mini-Batch Normalization (CmBN);
+
 
 **caution**!! this is a work WIP, so pls start and watching to catch out our progress!
 
